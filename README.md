@@ -2,7 +2,7 @@
 
 ## About Us
 
-Betaniahemmet is a non-profit association. For over 100 years, the association has been operating in Gothenburg, providing services for individuals with differing abilities and special needs.
+Betaniahemmet is a non-profit organization that has been serving the community in Gothenburg for over a hundred years. The association is dedicated to providing services for individuals with differing abilities and special needs.
 
 ## About Technology
 
@@ -26,7 +26,14 @@ When working in a daily activities center one might be faced with easier tasks t
 
 ## Vision
 
-Product development cycles are accelerating rapidly in the wake of the exploding popularity and general availability of AI for programming, 3d-printing for decentralized manufacturing and cheap, handy development boards like the raspberry pi and the different esp32 boards. This is especially true about the do-it-yourself scene but could as easily be said about everything from the military to any of the abundant tech start ups. 
+Product development cycles are accelerating rapidly in the wake of the exploding popularity and general availability of AI for programming, 3d-printing for decentralized manufacturing and cheap, handy development boards like the raspberry pi and the different esp32 boards. This is especially true about the do-it-yourself scene but could as easily be said about everything from the military to any of the abundant tech start ups.
+
+The example of the artificial pancreas above is not only an illustration of frustration but also a showcase of the possiblilities in open source development. It demonstrates how collaboration can drive innovation and rapid development, the cost-effectiveness of this approach, and ultimatly underscores the substantial gain that stands to be realized for the people in need of this development.
+
+If we could harness the advantages of the teqniques above to address the need for new welfare tech, this might indeed transform the way we perceive and approach the entire field of welfare technology.
+Collaboration and community, combined forces of private actors and the public sector, this should be corner stones in the future development of welfare tech.
+
+It doesn't presuppose anything beyond the platform on which we currently engage -GitHub- and the ideas, or even just the notion of a need that could be fullfilled if addressed by a community of people, whether progarammers or not.
 
 
 ### [Project Name 1](Link_to_Project1)
