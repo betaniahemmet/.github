@@ -15,7 +15,7 @@ So technology is a support and a crutch but at the same time it poses a challeng
 If technology poses too much of a challenge it might even be viewed as a threat.
 
 How can we make technology accessible to more people so that it can enable them to do more instead of hinder them from reaping the fruits of modern technology?
-It is indeed a question of democracy and perhaps even more important, of the quality of daily life for people who can not even use the most basic of digital tools.
+It is indeed a question of democracy and perhaps even more important, of the quality of daily life for people who might not be able to use complex digital tools.
 
 ## About Welfare Technology
 
